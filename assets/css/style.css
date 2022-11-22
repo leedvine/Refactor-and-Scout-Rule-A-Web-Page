@@ -1,3 +1,4 @@
+/* General site styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Header area styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +38,7 @@ header nav {
     font-size: 20px;
 }
 
+/* Main navigation styling */
 nav ul {
     list-style-type: none;
 }
@@ -45,8 +48,8 @@ nav ul li {
     margin-left: 25px;
 }
 
-
-.seo-text {
+/* Page areas and section styling */
+.white-text {
     color: #d9dcd6;
 }
 
@@ -120,6 +123,7 @@ nav ul li {
     max-width: 150px;
 }
 
+/* Footer styles */
 footer {
     padding: 30px;
     clear: both;
