@@ -12,11 +12,11 @@ Add comments to index.html and style.css to aid in assessment as well as help ot
 
 ## Installation
 
-You can view the end results on GiHub pages here
-
-Or you can download the files to local environment from Github and right click index file and open in browser.
+You can download the files to local environment from Github here https://github.com/leedvine/Refactor-and-Scout-Rule-A-Web-Page and right click the index file to open in browser.
 
 It is also possible to download from the above link and instal on any hosting owned by yourself. Note this should only be done on unused / clean hosting account or folder as installing here can overwrite files with same name.
+
+You can view project on GitHub pages here https://leedvine.github.io/Refactor-and-Scout-Rule-A-Web-Page/
 
 ## Usage 
 
